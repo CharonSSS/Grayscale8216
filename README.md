@@ -21,7 +21,7 @@ Machine learning raising 8-bit grayscale heightmap up to 16-bit, without terrace
 
 ## Usage
 
-### If you only want to upgrade your 8-bit images yo 16-bit
+### If you only want to upgrade your 8-bit images to 16-bit
 * Clone or download the repo to your local
 * Install Python
 * Execute pip install numpy, pip install tifffile, pip install torch
