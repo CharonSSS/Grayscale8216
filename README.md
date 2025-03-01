@@ -34,5 +34,5 @@ Machine learning raising 8-bit grayscale heightmap up to 16-bit, without terrace
 * Install Python
 * Execute pip install numpy, pip install tifffile, pip install torch
 * Open modelTraining_Cpu.py, set up the dataset path and run the script
-* [For who wants to run it on GPU] Execute pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+* [For who wants to run it on GPU] Execute `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126`
 * [For who wants to run it on GPU] Open modelTraining_AutoCpuGpu.py, set up the dataset path and run the script
